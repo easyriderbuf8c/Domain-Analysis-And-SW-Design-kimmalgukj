@@ -40,8 +40,18 @@
 ### FareCalculation package
 * For Fare Calculate
   * FareCalculator, FareStrategyFactory, OutsiderStrategy, SchoolStaffStrategy, StudentStrategy, TotalStrategy
-    
-## 4. 기타
+
+## 4. Applied Pattern
+### GRASP Pattern
+* Creator, Controller, Low Coupling, High Cohesion, Polymorphism, Pure Fabrication, Indirection, Protected Variations
+
+### GoF Pattern
+* Adapter, Singleton, Composite, Facade, Observer, Factory, Strategy
+
+### Architectural Layers pattern
+### Micro architectural design patterns
+
+## 5. 기타
 * Compile SDK Version : 30 (API 30: Android 10.0+ (R))
 * minSdkVersion : 24
 * 지도 : Google Map API 이용
